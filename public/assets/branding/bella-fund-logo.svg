@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  viewBox="0 0 400 400"
+  role="img"
+  aria-labelledby="logoTitle logoDesc"
+  preserveAspectRatio="xMidYMid meet"
+>
+  <title id="logoTitle">Bella Fund Platform Logo</title>
+  <desc id="logoDesc">A modern financial AI platform logo combining brain waves and upward trends</desc>
+  
+  <!-- Main Background -->
+  <circle cx="200" cy="200" r="180" fill="#2B3674" />
+  
+  <!-- AI Brain Waves -->
+  <path 
+    d="M50 200c50-50 100 50 150 0s100-50 150 0" 
+    stroke="#4CC9F0"
+    stroke-width="8"
+    fill="none"
+    stroke-linecap="round"
+  />
+  
+  <!-- Financial Trend Line -->
+  <path
+    d="M100 300l80-80 60 40 60-80"
+    stroke="#48BF84"
+    stroke-width="8"
+    fill="none"
+    stroke-linejoin="round"
+  />
+  
+  <!-- Brand Mark -->
+  <g fill="#F1F7FE" fill-rule="evenodd">
+    <!-- B Shape -->
+    <path d="M160 140v120c80 0 80-40 40-60-40-20 40-60-40-60z"/>
+    
+    <!-- F Shape -->
+    <path d="M200 140h60m-60 0v120m0-60h40"/>
+  </g>
+  
+  <!-- Accent Elements -->
+  <g fill-opacity="0.8">
+    <circle cx="320" cy="150" r="8" fill="#4CC9F0"/>
+    <circle cx="80" cy="250" r="8" fill="#48BF84"/>
+  </g>
+  
+  <!-- Brand Name -->
+  <text 
+    x="50%"
+    y="320"
+    font-size="24"
+    fill="#F1F7FE"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, sans-serif"
+    font-weight="600"
+  >
+    BELLA FUND
+  </text>
+</svg> 
