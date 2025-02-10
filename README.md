@@ -42,7 +42,7 @@ Bella Fund is an AI-driven investment platform combining decentralized finance a
 
 ## Technical Architecture 🧠
 
-```
+```mermaid
 graph LR
     A[Data Sources] --> B{AI Engine}
     B --> C[Risk Analysis]
