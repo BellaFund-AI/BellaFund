@@ -1,6 +1,6 @@
 # Bella Fund AI - Intelligent Cross-chain Investment Platform 🚀
 
-<img src="public/assets/branding/bella-fund-logo.svg" alt="Bella Fund Logo" width="200" height="200">
+<img src="public/assets/branding/newlogo.jpg" alt="Bella Fund Logo" width="200" height="200">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://github.com/bellafund/core-system/actions/workflows/ci.yml/badge.svg)](https://github.com/bellafund/core-system/actions)
